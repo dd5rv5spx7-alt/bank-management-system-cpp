@@ -1,0 +1,14 @@
+# macOS and editor files
+.DS_Store
+.vscode/
+
+# Build outputs
+bank
+bank_test
+*.o
+*.out
+
+# Runtime data created by the application
+accounts.txt
+accounts_backup.txt
+
